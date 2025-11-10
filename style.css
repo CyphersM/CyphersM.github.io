@@ -1,0 +1,16 @@
+:root { --green: #0a7f43; --text: #222; --bg: #f6faf7; }
+* { box-sizing: border-box; }
+body { margin: 0; font-family: -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; color: var(--text); background: var(--bg); line-height: 1.6; }
+.hero { text-align: center; background: var(--green); color: #fff; padding: 48px 16px; }
+.hero h1 { margin: 0 0 8px; font-size: 32px; }
+.hero h3 { margin: 0 0 12px; font-weight: 500; }
+.hero .contact a { color: #fff; }
+main { max-width: 880px; margin: 0 auto; padding: 24px 16px 64px; }
+h2 { color: var(--green); margin-top: 24px; }
+a { color: var(--green); text-decoration: none; }
+a:hover { text-decoration: underline; }
+.resume-list { list-style: none; padding: 0; }
+.resume-list li { margin: 8px 0; }
+.button { display: inline-block; background: var(--green); color: #fff; padding: 10px 16px; border-radius: 8px; }
+.button:hover { opacity: .92; text-decoration: none; }
+footer { text-align: center; background: #e8efe9; padding: 18px; }

@@ -1,0 +1,33 @@
+Monquese Cyphers – IT / Systems Resume
+San Antonio, TX | cmonquese@yahoo.com | 210-669-4360 | LinkedIn: linkedin.com/in/monquese-cyphers-11a7b0158 | Active Secret Clearance
+
+Professional Summary:
+Results-driven U.S. Navy Veteran with experience in system administration, network management, cybersecurity support, Active Directory, Windows Server 2019, M365, IAM, and endpoint protection.
+
+Core Technical Skills:
+Windows Server 2019
+Active Directory
+DNS/DHCP
+SCCM
+Patch Management
+Azure AD
+M365 Admin Center
+IAM
+Endpoint Protection
+Office 365
+Splunk
+Jira
+Teams
+
+Experience:
+ACI Learning – IT Support Specialist / Systems Administrator
+Managed Active Directory for 100+ users, patching, SCCM, M365, DNS/DHCP, endpoint protection.
+
+Southwest Research Institute – Technician
+Supported IT-connected lab systems and networks; maintained 98% uptime.
+
+The Boeing Company – Mechanic / IT Coordination
+Digitized maintenance tracking improving data reliability.
+
+United States Navy – Airframe Structural Mechanic
+Managed digital readiness logs for 50+ aircraft.

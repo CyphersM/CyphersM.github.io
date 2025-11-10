@@ -1,0 +1,28 @@
+Monquese Cyphers – Data Analytics Resume
+San Antonio, TX | cmonquese@yahoo.com | 210-669-4360 | LinkedIn: linkedin.com/in/monquese-cyphers-11a7b0158 | Active Secret Clearance
+
+Professional Summary:
+Data Analyst with expertise in SQL, Excel, Power BI, Tableau, Python, forecasting, and analytics in defense, aerospace, and research environments.
+
+Core Technical Skills:
+SQL
+Python (Pandas)
+Excel
+Power BI
+Tableau
+Data Cleaning
+Forecasting
+Dashboard Development
+
+Experience:
+ACI Learning – Data Analyst / IT Support
+Improved marketing ROI 15%, built Power BI dashboards, automated reporting, ensured 99% uptime.
+
+Southwest Research Institute – Data Technician
+Analyzed emissions data; reduced errors 25%; supported ML pipelines.
+
+The Boeing Company – Data Coordinator
+Improved inspection data accuracy by 10%.
+
+United States Navy – Technician
+Produced maintenance and performance logs for 50+ aircraft.
